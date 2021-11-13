@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gale20s
 - 👀 I’m interested in learning and coding.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on IT field.
 - 📫 How to reach me ...
 
